@@ -1,0 +1,7 @@
+﻿  visualisation.cpp
+C:\Users\jakey\Desktop\Programming stuff\SFML_Perlin_Noise\SFML_Perlin_Noise\SFML Visual Sorting Algorithm\visualisation.cpp(8,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jakey\Desktop\Programming stuff\SFML_Perlin_Noise\SFML_Perlin_Noise\SFML Visual Sorting Algorithm\visualisation.cpp(9,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  VisualSortingAlgo.cpp
+C:\Users\jakey\Desktop\Programming stuff\SFML_Perlin_Noise\SFML_Perlin_Noise\SFML Visual Sorting Algorithm\VisualSortingAlgo.cpp(47,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  SFML Visual Sorting Algorithm.vcxproj -> C:\Users\jakey\Desktop\Programming stuff\SFML_Perlin_Noise\SFML_Perlin_Noise\x64\Debug\SFML Visual Sorting Algorithm.exe
