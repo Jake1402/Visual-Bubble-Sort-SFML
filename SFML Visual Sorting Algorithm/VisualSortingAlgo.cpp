@@ -41,7 +41,7 @@ int main() {
 	const int width = 1200, height = 800;
 	sf::ContextSettings settings;
 	settings.antialiasingLevel = 8;
-	sf::RenderWindow window(sf::VideoMode(width, height), "Visual representation of merge sort", sf::Style::Default, settings);
+	sf::RenderWindow window(sf::VideoMode(width, height), "Visual Representation of Bubble Sort", sf::Style::Default, settings);
 
 	/*SETTING UP THE OBJECTS THAT NEEDED TO BE SORTED*/
 	srand(time(NULL));
